@@ -11,3 +11,11 @@ npm install
 npm run dev
 npm run build
 ```
+
+## AI-Native SDET Lab
+
+This repository is a hands-on environment for practicing:
+- Playwright automation with TypeScript
+- AI-assisted test investigation and implementation
+- Parallel AI agents and Git worktrees
+- GitHub pull requests and CI workflows
